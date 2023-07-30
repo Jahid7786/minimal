@@ -1,6 +1,13 @@
-title: Jahid Khan
-logo: assets/img/jahid_photo_01.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title:  <p align="center"> Jahid Khan </p>
+logo:  assets/img/jahid_photo_01.jpg
+
+description: 
+ <p align="center" >
+ <a href="pdf/resume.pdf">Resume</a>
+ <a href="https://www.linkedin.com/in/jahid-khan-4aba112a/">LinkedIn</a> |
+ <a href="https://github.com/Jahid7786">GitHub</a>
+
+<br>
+Working on Data Science,Big Data,Machine Learning & NLP related Project.Also handing the Big data from real-time ad call data.
+<br>
+</p>
