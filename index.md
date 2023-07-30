@@ -21,6 +21,10 @@ Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 
 
 Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
 
+[![view on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub=blue?logo=GitHub)](https://github.com/Jahid7786/CNNGestureRecognizer) 
+
+<center><img  src="assets/img/gesture_recognize.jpg"/></center>
+
 ---
 
 
