@@ -23,7 +23,7 @@ Suggestion: Better to download Anaconda as it will take care of most of the othe
 
 [![view on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub=blue?logo=GitHub)](https://github.com/Jahid7786/CNNGestureRecognizer) 
 
-<center><img  src="assets/img/gesture_recognize.jpg"/></center>
+<center><img  src="assets/img/gesture_recognize.png"/></center>
 
 ---
 
